@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background: aliceblue;
+    width: 100vw;
+    height: 60vh;
+    flex-wrap: wrap;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 42px;
+    align-items: center;
+    justify-content: center;
+
+}
+h1{
+    margin: 0 0 50px 0px;
+    letter-spacing: 2px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    padding: 0 0 50px 0px;
+    font-size: 20px;
+}
+button{
+    height: 45px;
+    width: 47px;
+    margin: 20px;
+    border-radius: 50%;
+}
